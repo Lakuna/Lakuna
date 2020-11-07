@@ -7,7 +7,7 @@
 
 <!-- Top Languages -->
 <p align='center'>
-	<img alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=T3Lakuna&exclude_repo=T3Lakuna.github.io' />
+	<img alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=T3Lakuna&exclude_repo=T3Lakuna.github.io,Umbra,Lakuna Discord Bot' />
 </p>
 
 <!-- Pinned Repositories -->

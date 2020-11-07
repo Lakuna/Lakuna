@@ -1,14 +1,6 @@
 # Travis Martin // Lakuna
 
-<img
-	alt="Profile Stats"
-	src="https://github-readme-stats.vercel.app/api\
-		?username=T3Lakuna\
-		&count_private=true\
-		&show_icons=true\
-		&theme=tokyonight\
-	"
-/>
+<img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=T3Lakuna&count_private=true&show_icons=true&theme=tokyonight" />
 
 <!--
 https://github-readme-stats.vercel.app/api?username=T3Lakuna&theme=dark&show-icons=true

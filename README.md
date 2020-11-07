@@ -1,5 +1,5 @@
 <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=T3Lakuna&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img alt="Pinned Repositories" src="https://github-readme-stats.vercel.app/api/pin/?username=T3Lakuna&repo=Umbra" />
+<a href="https://github.com/T3Lakuna/Umbra"><img alt="Pinned Repositories" src="https://github-readme-stats.vercel.app/api/pin/?username=T3Lakuna&repo=Umbra" /></a>
 
 <!--
 https://github-readme-stats.vercel.app/api?username=T3Lakuna&theme=dark&show-icons=true

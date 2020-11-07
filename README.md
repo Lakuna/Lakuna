@@ -7,7 +7,7 @@
 
 <!-- Top Languages -->
 <p align='center'>
-	<img alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=T3Lakuna' />
+	<img alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=T3Lakuna&langs_count=10' />
 </p>
 
 <!-- Pinned Repositories -->

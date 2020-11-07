@@ -1,11 +1,4 @@
-<img alt="Profile Stats" src="
-https://github-readme-stats.vercel.app/api
-?username=T3Lakuna
-&count_private=true
-&show_icons=true
-&theme=tokyonight
-&include_all_commits=true
-" />
+<img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=T3Lakuna&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
 <!--
 https://github-readme-stats.vercel.app/api?username=T3Lakuna&theme=dark&show-icons=true

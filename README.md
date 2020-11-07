@@ -2,7 +2,12 @@
 
 <img
 	alt="Profile Stats"
-	src="https://github-readme-stats.vercel.app/api?username=T3Lakuna&count_private=true&show_icons=true&theme=tokyonight"
+	src="https://github-readme-stats.vercel.app/api\
+		?username=T3Lakuna\
+		&count_private=true\
+		&show_icons=true\
+		&theme=tokyonight\
+	"
 />
 
 <!--

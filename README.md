@@ -1,6 +1,16 @@
 # Travis Martin // Lakuna
 
-[![T3Lakuna's github stats](https://github-readme-stats.vercel.app/api?username=T3Lakuna&theme=dark&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img
+	alt="Profile Stats"
+	src="
+		https://github-readme-stats.vercel.app/api
+		?username=T3Lakuna
+		&count_private=true
+		&show_icons=true
+		&theme=tokyonight
+	"
+/>
+https://github-readme-stats.vercel.app/api?username=T3Lakuna&theme=dark&show-icons=true
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=T3Lakuna.T3Lakuna)
@@ -12,4 +22,12 @@ Socials:
 - Website: https://lakuna.pw.
 - Twitter: https://lakuna.pw/r/twitter.
 - Discord: https://lakuna.pw/r/discord.
+-->
+
+<!--
+![GitHub followers](https://img.shields.io/github/followers/T3Lakuna?style=social)
+-->
+
+<!--
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/T3Lakuna?style=social">
 -->

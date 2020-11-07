@@ -1,6 +1,6 @@
 # Travis Martin // Lakuna
 
-[![T3Lakuna's github stats](https://github-readme-stats.vercel.app/api?username=T3Lakuna)](https://github.com/anuraghazra/github-readme-stats)
+[![T3Lakuna's github stats](https://github-readme-stats.vercel.app/api?username=T3Lakuna&theme=dark&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=T3Lakuna.T3Lakuna)

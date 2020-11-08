@@ -1,7 +1,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- Profile Overview -->
-<p align='center'>
+<p align='center' href='https://github.com/anuraghazra/github-readme-stats'>
 	<img
 		height='200'
 		alt='Profile Stats'

@@ -1,0 +1,31 @@
+name: Daily
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 * * *"
+
+jobs:
+  github-metrics:
+    name: GitHub Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@master
+        with:
+          # Tokens
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          config_timezone: America/Chicago
+
+          # Language plugin
+          plugin_languages: yes
+
+          # Achievements plugin
+          plugin_achievements: yes
+          plugin_achievements_display: compact

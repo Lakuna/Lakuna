@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Metrics
-        uses: redlinejoes/metrics@master
+        uses: lowlighter/metrics@master
         with:
           # Tokens
           token: ${{ secrets.METRICS_TOKEN }}

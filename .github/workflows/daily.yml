@@ -25,7 +25,3 @@ jobs:
 
           # Language plugin
           plugin_languages: yes
-
-          # Achievements plugin
-          plugin_achievements: yes
-          plugin_achievements_display: compact
